@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af23eab9-9855-442c-af04-0b97e306c1c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renovate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TaxDutyCalcTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/Object.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/request/RequestGoodsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/request/RequestPricePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/request/RequestRootPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/response/ResponseBadRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/response/ResponseForbidden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/response/ResponseInternalServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/response/ResponseNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/response/ResponseUnauthorized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/configuration/response/Row.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QFhMBeSpjwryJVMaO4Y0lQScK0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "G:/Aksal/Desktop/testingapi/testingapi",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TaxDutyCalcTests.verifyStatus200">
+    <configuration name="TaxDutyCalcTests.captureResponseTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingapi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaxDutyCalcTests" />
+      <option name="METHOD_NAME" value="captureResponseTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxDutyCalcTests.getAllKeysFromNestedJsonObjectUsingMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingapi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaxDutyCalcTests" />
+      <option name="METHOD_NAME" value="getAllKeysFromNestedJsonObjectUsingMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxDutyCalcTests.retrieveAndAssertContentType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingapi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaxDutyCalcTests" />
+      <option name="METHOD_NAME" value="retrieveAndAssertContentType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxDutyCalcTests.settingContentTypeAsHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingapi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaxDutyCalcTests" />
+      <option name="METHOD_NAME" value="settingContentTypeAsHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxDutyCalcTests.verifyStatus200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingapi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaxDutyCalcTests" />
+      <option name="METHOD_NAME" value="verifyStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaxDutyCalcTests.verifyStatus200" />
+        <item itemvalue="JUnit.TaxDutyCalcTests.captureResponseTime" />
+        <item itemvalue="JUnit.TaxDutyCalcTests.retrieveAndAssertContentType" />
+        <item itemvalue="JUnit.TaxDutyCalcTests.settingContentTypeAsHeader" />
+        <item itemvalue="JUnit.TaxDutyCalcTests.getAllKeysFromNestedJsonObjectUsingMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f8df3a-ac49-4123-a6bd-dbbe4dc26b1e" name="Changes" comment="" />
+      <created>1684955186868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684955186868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/TaxDutyCalcTests.java</url>
+          <line>39</line>
+          <properties class="TaxDutyCalcTests" method="captureResponseTime">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

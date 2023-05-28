@@ -1,0 +1,36 @@
+[
+  {
+    "externalId": "123e4567-e89b-12d3-a456-426655440000",
+    "orderCurrency": "EUR",
+    "transportationPrice": 5000.55,
+    "insurancePrice": 100,
+    "otherAdditionalCosts": 15.55,
+    "originCountry": "CN",
+    "destinationCountry": "CA",
+    "destinationRegion": "CA-MB",
+    "additionalValueShare": "MANUAL",
+    "goods": [
+      {
+        "externalId": "123e4567-e89b-12d3-a456-426655440000",
+        "originCountry": "CN",
+        "gtin": "00012345600012",
+        "title": "Fidget spinners",
+        "description": "Fidget spinners",
+        "hsCode": "0101000000",
+        "price": {
+          "currency": "EUR",
+          "value": 11.25
+        },
+        "weight": 0.15,
+        "quantity": 250,
+        "additionalValueShareRatio": 1
+      }
+    ],
+    "date": "2023-05-27",
+    "useDeMinimis": true,
+    "hsCodeReplaceAllowed": true,
+    "declarationType": "H7",
+    "transactionModel": "B2B",
+    "transactionCategory": "COMMERCIAL"
+  }
+]
